@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IKVM.Reflection", "IKVM.Reflection.csproj", "{4FB54BA6-7D6D-4928-9C7D-7CE6006A0962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB54BA6-7D6D-4928-9C7D-7CE6006A0962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB54BA6-7D6D-4928-9C7D-7CE6006A0962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB54BA6-7D6D-4928-9C7D-7CE6006A0962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB54BA6-7D6D-4928-9C7D-7CE6006A0962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A1CEC57-545B-47FD-B5F4-A01674E75D1A}
+	EndGlobalSection
+EndGlobal
